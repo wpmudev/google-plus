@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1019571/google/trunk/lib/external/google/auth
+END
+apiOAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1018511/google/trunk/lib/external/google/auth/apiOAuth.php
+END
+apiAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1019571/google/trunk/lib/external/google/auth/apiAuth.php
+END
+apiAuthNone.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1018511/google/trunk/lib/external/google/auth/apiAuthNone.php
+END
+apiOAuth2.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1018511/google/trunk/lib/external/google/auth/apiOAuth2.php
+END
+apiSigner.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1019571/google/trunk/lib/external/google/auth/apiSigner.php
+END
+apiP12Signer.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1018511/google/trunk/lib/external/google/auth/apiP12Signer.php
+END
+apiVerifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1019571/google/trunk/lib/external/google/auth/apiVerifier.php
+END
+apiLoginTicket.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1018511/google/trunk/lib/external/google/auth/apiLoginTicket.php
+END
+apiPemVerifier.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1018511/google/trunk/lib/external/google/auth/apiPemVerifier.php
+END

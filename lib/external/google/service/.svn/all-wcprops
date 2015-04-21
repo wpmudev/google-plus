@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/537114/google/trunk/lib/external/google/service
+END
+apiModel.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/537114/google/trunk/lib/external/google/service/apiModel.php
+END
+apiService.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/537114/google/trunk/lib/external/google/service/apiService.php
+END
+apiUtils.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/537114/google/trunk/lib/external/google/service/apiUtils.php
+END
+apiBatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/468598/google/trunk/lib/external/google/service/apiBatch.php
+END
+apiServiceResource.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/537114/google/trunk/lib/external/google/service/apiServiceResource.php
+END
+apiServiceRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/537114/google/trunk/lib/external/google/service/apiServiceRequest.php
+END
